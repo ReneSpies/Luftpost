@@ -1,0 +1,1 @@
+/home/rene/Luftpost/LuftpostAndroid/buildSrc/build/classes/kotlin/main/Versions.class
