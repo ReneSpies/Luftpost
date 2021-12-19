@@ -29,7 +29,7 @@ compose.desktop {
         mainClass = "MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Deb)
-            packageName = "LuftpostDesktop"
+            packageName = "Luftpost"
             packageVersion = "1.0.0"
         }
     }
