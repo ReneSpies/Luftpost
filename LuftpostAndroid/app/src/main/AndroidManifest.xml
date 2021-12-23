@@ -3,6 +3,7 @@
     package="me.renespies.luftpost">
 
     <application
+        android:name=".application.LuftpostApplication"
         android:allowBackup="true"
         android:fullBackupOnly="true"
         android:icon="@mipmap/ic_launcher"
